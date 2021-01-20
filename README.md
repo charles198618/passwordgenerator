@@ -8,6 +8,9 @@ Thus, the messages will be displaying to ask the user about what he wants. From 
 
 ![Password](./03-password-generator.png)
 
+Below is the link to Deployment:
+https://charles198618.github.io/passwordgenerator/
+
 ## OBJECTIVES
 
 The motivation that pushed me to realize this project is because I wanted to solve a problem in society. Nowadays, many people loose datas such as documents, pictures, even money because they don't have a strong password. But with this project, the user will be able a generate a very strong password that will help users to protect  sensitive informations or datas on internet.
