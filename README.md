@@ -23,5 +23,3 @@ In order to get to this result, I have use HTML, CSS, and JavaScript. First of a
 ## Challenges met
 
 There was many challenges during the realization of this project. The big obstacle was how to use the conditional such as if and satisfies our the customers needs. Also, the use of for and while loops were the biggest challenges.
-
-
